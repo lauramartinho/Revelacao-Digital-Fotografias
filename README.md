@@ -1,2 +1,2 @@
-# Revela-o-digital-de-fotografia
+# Revelacao-digital-fotografia
 Conjunto de algoritmos que digitalizam negativos de fotos analógicas em python.
